@@ -1,0 +1,13 @@
+#first-selector {
+    background-color: black;
+    color: white;
+}
+
+#second-selector {
+    background-color: yellow;
+}
+
+#first-selector, #second-selector {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
